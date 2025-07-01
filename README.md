@@ -1,2 +1,2 @@
 # Slot-Machine
-Slot Machine 
+
