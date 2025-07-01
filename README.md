@@ -71,6 +71,11 @@ Current balance is $90
 
 - No external dependencies
 
+Screenshots
+
+![1](https://github.com/user-attachments/assets/4cb3e299-2d08-4e80-955f-cb201e4d8a84)
+
+
 🛠️ Customization Ideas
 - Add more symbols or larger grid sizes.
 
